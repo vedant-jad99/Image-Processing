@@ -1,1 +1,2 @@
-This is a simple edge detection program which detects edges in an image. I have written this using basic numpy and matplotlib library. This is not perfectly accurate, bur gives daamn beautiful results ;)
+This is the same concept of edge detection as in the master branch, but I have tried implementing this in oops manner.
+
